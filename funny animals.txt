@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <titles>Funny pets</titles>
+    </head>
+
+<body>          
+My best funny pets stories and pictures
+
+</body>
+
+</html>
